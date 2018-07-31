@@ -23,6 +23,7 @@ By the end of the course, you'll have gained enough knowledge to work with big d
 To fully benefit from the coverage included in this course, you will need:<br/>
 <LI>Basic Java programming knowledge would be an advantage. 
 <LI>No prior knowledge on Big data and Hadoop is required.
+  
 ### Technical Requirements
 This course has the following software requirements:<br/>
 <LI>Unix OS 
