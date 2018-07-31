@@ -1,5 +1,5 @@
-# Big Data Processing using Apache Spark [Video]
-This is the code repository for [Big Data Processing using Apache Spark [Video]](https://www.packtpub.com/big-data-and-business-intelligence/big-data-processing-using-apache-spark-video?utm_source=github&utm_medium=repository&utm_campaign=9781788398367), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Hands-On Beginner’s Guide on Big Data and Hadoop 3 [Video]
+This is the code repository for [Hands-On Beginner’s Guide on Big Data and Hadoop 3 [Video]](https://www.packtpub.com/application-development/hands-beginner’s-guide-big-data-and-hadoop-3-video?utm_source=github&utm_medium=repository&utm_campaign=9781788996099), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Do you struggle to store and handle big data sets? This course will teach to smoothly handle big data sets using Hadoop 3.
 
@@ -10,23 +10,22 @@ By the end of the course, you'll have gained enough knowledge to work with big d
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Understand Spark API and its Architecture. 
-<LI>Know the difference between RDD and DataFrame API. 
-<LI>Learn to join big amounts of data. 
-<LI>Start a project using Apache Spark. 
-<LI>Discover how to write efficient jobs using Apache Spark. 
-<LI>Test Spark code correctly 
-<LI>Leverage Apache Spark to process big data faster. </LI></UL></DIV>
+<LI>Focus on the Hadoop ecosystem to understand big data and how to manage it 
+<LI>Learn the basic commands used by big data developers and the structure of the Unix OS. 
+<LI>Understand the HDFS architecture and command line to deal with HDFS files and directories 
+<LI>Import data using Flume and analyze it using MapReduce 
+<LI>Export and import data from RDBMS to HDFS and vice-versa with SQOOP 
+<LI>Use command-line language Pig Latin for data transformation operations 
+<LI>Deal with stored data and learn to load, update, and delete data using Hive </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-<LI>Basic Java programming knowledge would be an advantage. 
-<LI>No prior knowledge on Big data and Hadoop is required.
+Basic Java programming knowledge would be an advantage. No prior knowledge on Big data and Hadoop is required.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-<LI>Unix OS 
-<LI>Sandbox
+Unix OS 
+Sandbox
 
 ## Related Products
 * [Hands-On Data Analytics for Beginners with Google Colaboratory [Video]](https://www.packtpub.com/business/hands-data-analytics-beginners-google-colaboratory-video?utm_source=github&utm_medium=repository&utm_campaign=9781788993104)
