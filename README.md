@@ -21,11 +21,12 @@ By the end of the course, you'll have gained enough knowledge to work with big d
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Basic Java programming knowledge would be an advantage. No prior knowledge on Big data and Hadoop is required.
+<LI>Basic Java programming knowledge would be an advantage. 
+<LI>No prior knowledge on Big data and Hadoop is required.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Unix OS 
-Sandbox
+<LI>Unix OS 
+<LI>Sandbox
 
 ## Related Products
 * [Hands-On Data Analytics for Beginners with Google Colaboratory [Video]](https://www.packtpub.com/business/hands-data-analytics-beginners-google-colaboratory-video?utm_source=github&utm_medium=repository&utm_campaign=9781788993104)
